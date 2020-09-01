@@ -23,4 +23,4 @@ Final results have the following requirements:
 - Most Profitable Items
 
 Summarize the analysis by writing descriptions of all observable trends based on the data. 
-This info will be saved as text file. 
+This info is located on the last part of file name, "HeroesOfPymoli_Final.ipynb".
