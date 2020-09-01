@@ -4,6 +4,8 @@ Pandas + Python Challenge Activities
 
 Analyze the data of the game "Heroes Of Pymoli" as Lead Analyst in the independent game dev.
 
+All the final results can be find on "HeroesOfPymoli_Final.ipynb" file.
+
 Final results have the following requirements: 
 
 - Player's Count
